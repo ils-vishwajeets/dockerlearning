@@ -1,1 +1,2 @@
 hello for git
+hello for ubuntu
